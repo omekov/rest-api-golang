@@ -1,23 +1,14 @@
-Курс по golang
-Взята из [Gopher School](https://www.youtube.com/channel/UCQBFSUV_BdxGCxeg9Th4EjQ)
+Курс по golang от [Gopher School](https://www.youtube.com/channel/UCQBFSUV_BdxGCxeg9Th4EjQ)
 
 Для справки
 
-От Автора:
+# От Автора:
 
 Полезные ссылки:
 - https://github.com/golang-standards/project-layout
 - https://github.com/codeship/go-best-practices
 
-Библеотеки: 
-
-- github.com/BurntSushi/toml v0.3.1
-- github.com/gorilla/mux v1.7.3
-- github.com/sirupsen/logrus v1.4.2
-- github.com/stretchr/testify v1.4.0
-
-
-VSCode Плагины от Автора:
+VSCode Плагины:
 - aaron-bond.better-comments
 - alefragnani.project-manager
 - atipugin.rails-partial
@@ -35,3 +26,13 @@ VSCode Плагины от Автора:
 - waderyan.gitblame
 - wingrunr21.vscode-ruby
 - zhuangtongfa.material-theme
+
+Библеотеки: 
+- github.com/BurntSushi/toml v0.3.1
+- github.com/gorilla/mux v1.7.3
+- github.com/sirupsen/logrus v1.4.2
+- github.com/stretchr/testify v1.4.0
+
+- github.com/pelletier/go-toml - альтернатива
+
+
