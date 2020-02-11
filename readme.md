@@ -7,6 +7,8 @@
 Полезные ссылки:
 - https://github.com/golang-standards/project-layout
 - https://github.com/codeship/go-best-practices
+- https://habr.com/ru/post/263033/
+- https://dev.to/eminetto/clean-architecture-using-golang-5791
 
 VSCode Плагины:
 - aaron-bond.better-comments
@@ -36,3 +38,6 @@ VSCode Плагины:
 - github.com/pelletier/go-toml - альтернатива
 
 
+Установка бинарных файлов
+- github.com/golang-migrate/migrate/releases - скачаваем бинарник установлеваем в $GOPATH/bin/
+и он будет подтягиваться оттуда
